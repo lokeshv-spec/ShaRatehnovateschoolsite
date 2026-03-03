@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    /* background: linear-gradient(red, purple, green); */
+    /* background: radial-gradient(red, purple, green); */
+    /* background: repeating-radial-gradient(rgb(26, 8, 8), rgb(241, 6, 241), green); */
+    background: linear-gradient(to right, rgba(230, 234, 9, 0.596),white); 
+    height: 90px;
+    display: flex;
+    color: white;
+    text-align: center;
+}
+nav {
+    /* background-color: red; */ 
+    list-style-type: none;
+    display: flex;
+    height: 90%;
+    width: 100%;
+    justify-content: end;
+    align-items: center;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(14, 0, 0);
+    position: absolute;
+    left: 50px;
+}
+ol{                                                  
+    /* background-color: black; */
+    font-style: oblique;
+    font-size: 20px;   
+    list-style-type: none;
+    display: flex;
+    height: 90px;
+    width: 60%;
+    justify-content:space-around;
+    gap: 20px;
+    align-items: center;
+}
+li a:hover {
+    /* background-color: aqua; */   
+    color: rgb(14, 8, 1);
+    font-size: 22px;
+}   
+a {
+    text-decoration: none;
+    color: rgb(144, 59, 2);
+    font-size: 18px;
+}
+div:hover{
+    display: flex;
+    gap: 10px;  
+    font-size: 20px;
+
+}
+.login{
+    background-color: rgba(5, 41, 246, 0.685);
+    color: #f2f1f1;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,93 @@
+https://ssp-school.netlify.app/    
+https://www.cbseschool.org/vishwaprajnaa-academy-karnataka/   #collection of schools data provides details
+navigation bar consist of browse by state 
+
+https://anjanadrischool.com/       #consists of ciricullam and beyond education 
+
+https://www.ves.org.in/   # unquie intro , used menu to navigate  , navigation at the bottom
+https://www.srilakshmipublicschool.com/    #infrastructure and documents are avaikable
+
+https://www.vidyasanskaar.edu.in/ NCC and news letter unique character 
+
+https://www.oset.co.in/ similar default navigation 
+
+https://embassyacademy.in/   mandatory public disclosure and parent disclosur is included
+
+https://www.orchidsinternationalschool.com/ study material anc blogs are included
+https://www.newhardwick.org/  default
+
+https://svksmartschool.org/ news and events
+
+https://www.srivagdevischool.com/   mandatory disclouser
+
+https://newhorizongurukul.in/gurukul-schools-in-bangalore/ default
+
+https://www.nps.ac.in/faq.php#popup1     FAQS 
+
+https://www.narayanaschools.in/karnataka navigation divided in two rows
+
+https://biawhitefield.in/  
+
+https://www.csinternationalschool.in/
+
+https://presidencyschools.org/  unquie 
+
+https://mithra.edu.in/ default
+
+final report the navigation bar must contain 
+Observations from Website Analysis
+Based on the comparative review, the following key features and structural patterns were observed 
+Many websites follow a default horizontal navigation bar structure
+Some institutions divide navigation into two rows for better categorization
+A few websites implement unique introductory sections and bottom navigation menu
+Certain portals provide state-wise browsing options for easier access to school data
+FAQ sections are helpful with pop-up features for enhanced usability so it could be added
+
+Default navigation menu
+Home
+About Us
+Academics
+Campus Life
+Parents and Children Disclosure
+Admissions
+Gallery
+Contact Us
+Enroll
+Enquiry
+
+Optional Navigation Items
+Study Material (Optional – if resources are provided)
+Blogs (Optional – for educational content and updates)
+FAQs (Optional – for addressing common queries)
+
+website 
+
+header 
+main
+multiple section
+footer
+
+navigation bar
+main sections
+about sections
+our sections
+feedback section
+portfolio sections
+more 
+end contact section
+footer sections
+
+CTA BUTTON call to action button 
+cards 
+hover effect for cursor bringing
+fixed bar contact bar
+floating buttons
+
+
+
+research on main section 
+
+presidencyschools
+cs international school
+narayanaschools 
+new hardwick 
