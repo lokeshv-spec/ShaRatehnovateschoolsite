@@ -8,7 +8,7 @@ header {
     /* background: repeating-radial-gradient(rgb(26, 8, 8), rgb(241, 6, 241), green); */
     background: linear-gradient(to right, rgba(230, 234, 9, 0.596),white); 
     height: 90px;
-    display: flex;
+    /* display: flex;  */
     color: white;
     text-align: center;
 }
@@ -50,14 +50,28 @@ a {
     color: rgb(144, 59, 2);
     font-size: 18px;
 }
-div:hover{
+div{
+    background-color: rgba(243, 49, 5, 0.941);
+    height: 20px;
+    width: 100%;
+    display: flex;
+     justify-content: end;
+     align-items: center;
+     padding-right: 100px;
+    
+}
+button{
+    background-color: rgba(0, 0, 0, 0);
+    border:none;
+    position: relative;
+    right:20px;
     display: flex;
     gap: 10px;  
-    font-size: 20px;
+    font-size: 14px;
 
 }
-.login{
-    background-color: rgba(5, 41, 246, 0.685);
+button:hover{
+    background-color: rgba(5, 41, 246, 0.968);
     color: #f2f1f1;
     border: none;
     padding: 10px 20px;
